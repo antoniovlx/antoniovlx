@@ -7,7 +7,7 @@
 
 Hello! 👋
 
-My name is Antonio Vida I'm a Full Stack Developer, Software Engineer and Java Developer who loves helping people building awesome apps.
+My name is Antonio Vida and I'm a Full Stack Developer, Software Engineer and Java Developer who loves helping people building awesome apps.
 
 Currently, I’m working on a European research project, taking action to help fight climate change. I am developing Software for improving fire management and wildfires fighting in Forest Engineering Department at University of Cordoba, within the framework of CILIFO project.
 

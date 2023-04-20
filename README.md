@@ -7,5 +7,4 @@ Currently, I’m working on a European research project, taking action to help f
 
 Some of the Technologies that I use include Java, Spring, Angular, Python, Javascript, Node.js, or AWS (Amazon Web Services).
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![image title](https://rushter.com/counter.svg)
